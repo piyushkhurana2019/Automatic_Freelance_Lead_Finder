@@ -1,0 +1,155 @@
+{
+    "pitch_list": [
+      {
+        "source_query": "perfume stores in dubai",
+        "pitches": [
+          {
+            "name": "Al Rehab Perfumes",
+            "phone": "+971-4-2234567",
+            "address": "Shop 12, Al Karama Center, Dubai, UAE"
+          },
+          {
+            "name": "Arabian Oud House",
+            "phone": "+971-50-8765432",
+            "address": "Deira Souk, Gold Market Street, Dubai, UAE"
+          },
+          {
+            "name": "Musk & Amber Trading",
+            "phone": "+971-4-3456789",
+            "address": "Bur Dubai, Near Meena Bazaar, Dubai, UAE"
+          },
+          {
+            "name": "Essence of Arabia",
+            "phone": "+971-55-1234567",
+            "address": "Al Fahidi Street, Dubai, UAE"
+          }
+        ]
+      },
+      {
+        "source_query": "event planners in mumbai",
+        "pitches": [
+          {
+            "name": "Dream Events Mumbai",
+            "phone": "+91-22-28765432",
+            "address": "Andheri West, Mumbai, Maharashtra 400058"
+          },
+          {
+            "name": "Celebration Makers",
+            "phone": "+91-98765-43210",
+            "address": "Bandra West, Near Linking Road, Mumbai 400050"
+          },
+          {
+            "name": "Royal Wedding Planners",
+            "phone": "+91-22-26543210",
+            "address": "Juhu Tara Road, Mumbai, Maharashtra 400049"
+          },
+          {
+            "name": "Sparkle Events",
+            "phone": "+91-99876-54321",
+            "address": "Powai, Hiranandani Gardens, Mumbai 400076"
+          }
+        ]
+      },
+      {
+        "source_query": "jewellery shop in jaipur",
+        "pitches": [
+          {
+            "name": "Rajasthan Gems & Jewels",
+            "phone": "+91-141-2345678",
+            "address": "Johari Bazaar, Near Tripolia Gate, Jaipur 302002"
+          },
+          {
+            "name": "Heritage Kundan House",
+            "phone": "+91-98290-12345",
+            "address": "MI Road, Panch Batti Circle, Jaipur 302001"
+          },
+          {
+            "name": "Meenakari Jewellers",
+            "phone": "+91-141-2567890",
+            "address": "Chandpol Bazaar, Jaipur, Rajasthan 302001"
+          }
+        ]
+      },
+      {
+        "source_query": "beauty salon in surat",
+        "pitches": [
+          {
+            "name": "Glamour Studio",
+            "phone": "+91-261-2345678",
+            "address": "Ghod Dod Road, Surat, Gujarat 395007"
+          },
+          {
+            "name": "Style & Shine Salon",
+            "phone": "+91-99789-12345",
+            "address": "Adajan Patiya, Near City Mall, Surat 395009"
+          },
+          {
+            "name": "Bella Beauty Lounge",
+            "phone": "+91-261-2987654",
+            "address": "Vesu, Near VR Mall, Surat, Gujarat 395007"
+          },
+          {
+            "name": "Hair & Care Studio",
+            "phone": "+91-98765-67890",
+            "address": "Piplod, Surat, Gujarat 395007"
+          }
+        ]
+      },
+      {
+        "source_query": "car detailing service in bangalore",
+        "pitches": [
+          {
+            "name": "Auto Shine Detailing",
+            "phone": "+91-80-23456789",
+            "address": "Koramangala 5th Block, Bangalore 560095"
+          },
+          {
+            "name": "Premium Car Care",
+            "phone": "+91-99800-12345",
+            "address": "Indiranagar, 100 Feet Road, Bangalore 560038"
+          },
+          {
+            "name": "Sparkle Auto Studio",
+            "phone": "+91-80-26789012",
+            "address": "HSR Layout, Sector 1, Bangalore 560102"
+          }
+        ]
+      },
+      {
+        "source_query": "gym near andheri west",
+        "pitches": [
+          {
+            "name": "Fitness First Gym",
+            "phone": "+91-22-26324567",
+            "address": "Lokhandwala Complex, Andheri West, Mumbai 400053"
+          },
+          {
+            "name": "Power House Fitness",
+            "phone": "+91-98200-98765",
+            "address": "Versova, Near Metro Station, Andheri West 400061"
+          }
+        ]
+      },
+      {
+        "source_query": "bakery in noida",
+        "pitches": [
+          {
+            "name": "Fresh Bakes Bakery",
+            "phone": "+91-120-4567890",
+            "address": "Sector 18 Market, Noida, UP 201301"
+          },
+          {
+            "name": "Golden Crust",
+            "phone": "+91-99999-87654",
+            "address": "Sector 50, Near Brahmaputra Market, Noida 201301"
+          },
+          {
+            "name": "Sweet Tooth Bakery",
+            "phone": "+91-120-2345678",
+            "address": "Sector 62, Noida, Uttar Pradesh 201309"
+          }
+        ]
+      }
+    ]
+  }
+  
